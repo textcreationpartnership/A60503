@@ -1,0 +1,1034 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon the D--- of S---'s letter to the House of Lords concerning Capt. Smyth being a vindication of his services from the imputations therein laid upon them : with the D---'s letter at large : to which is added a list of those persons to whom warrants were granted to stay in England pursuant to a late act of Parliament / by Matthew Smyth ...</title>
+            <author>Smith, Matthew, fl. 1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60503</idno>
+            <idno type="STC">Wing S4132</idno>
+            <idno type="STC">ESTC R10304</idno>
+            <idno type="EEBO-CITATION">13779773</idno>
+            <idno type="OCLC">ocm 13779773</idno>
+            <idno type="VID">101770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon the D--- of S---'s letter to the House of Lords concerning Capt. Smyth being a vindication of his services from the imputations therein laid upon them : with the D---'s letter at large : to which is added a list of those persons to whom warrants were granted to stay in England pursuant to a late act of Parliament / by Matthew Smyth ...</title>
+                  <author>Smith, Matthew, fl. 1696.</author>
+                  <author>Shrewsbury, Charles Talbot, Duke of, 1660-1718.</author>
+               </titleStmt>
+               <extent>xvi, 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by the booksellers of London and Westminster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shrewsbury, Charles Talbot, --  Duke of, 1660-1718.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101770:1"/>
+            <pb facs="tcp:101770:1"/>
+            <p>REMARKS UPON THE D— of <hi>S</hi>—'s LETTER TO THE Houſe of LORDS, Concerning Capt. <hi>SMYTH.</hi>
+            </p>
+            <p>Being a <hi>Vindication</hi> of his SERVICES from the Imputations therein laid upon them.</p>
+            <p>With the D—'s Letter at large.</p>
+            <p>
+               <hi>To which is added,</hi> A LIST of thoſe Perſons to whom War<g ref="char:EOLhyphen"/>rants were granted to ſtay in <hi>England,</hi> pur<g ref="char:EOLhyphen"/>ſuant to a late Act of Parliament.</p>
+            <p>By MATTHEW SMYTH of the <hi>Inner-Temple</hi> Eſq;</p>
+            <q>—<hi>
+                  <g ref="char:V">Ʋ</g>tcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ferant ea facta minores, Vicit amor Patriae.</hi> 
+               <bibl>—Virg.</bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed, and ſold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter;</hi> of whom may be had the Author's <hi>Memoirs of Secret Service.</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101770:2"/>
+            <pb facs="tcp:101770:2"/>
+            <p>TO THE KING's moſt Excellent Majeſty; And to the Lords Spiritual and Temporal, AND Commons of <hi>England</hi> In Parliament aſſembled: The following Sheets are humbly offer'd By MATTHEW SMYTH <hi>Eſq;</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:101770:3"/>
+            <pb n="v" facs="tcp:101770:3"/>
+            <head>PREFACE.</head>
+            <p>NOthing can be more provoking to a Man of any Spirit, than Contempt. This I ſuppoſe my Adverſaries are not ignorant of, and therefore will not be much ſurpriz'd to find the Scorn they have treated me with, rejected upon 'em. They're miſtaken if they think Quality an ex<g ref="char:EOLhyphen"/>cuſe for Inſolence, or expect that any Title ſhou'd be a ſufficient Plea in defence of Inju<g ref="char:EOLhyphen"/>ries. They have repreſented me as a Fool or a Madman; one of which I confeſs they have a juſt ground for, otherwiſe I had not truſted them ſo long, till I was publickly affronted by thoſe that ought to have made me another ſort of return. I patiently bore all ſorts of In<g ref="char:EOLhyphen"/>juries; I ſaw my ſelf ſlighted, and miſrepre<g ref="char:EOLhyphen"/>ſented, and my Services not only ſtifled, but (as far as lay in ſome mens power) turn'd to my own deſtruction: For by ſome body's Or<g ref="char:EOLhyphen"/>der (whoſe it's no hard matter to gueſs) while the Buſineſs of the Plot was warm, I was taken up by a Meſſenger at midnight
+<pb n="vi" facs="tcp:101770:4"/>in my Lodgings, and my Papers ſeiz'd. But Providence (for I can think it no leſs) put it into my head, to ſhew the Meſſenger proofs of my Correſpondence with the Secretary's Office; which convinc'd the Fellow that he was under a miſtake, there being another Gentleman of the ſame Name hard by; to whoſe houſe he immediately went and broke it open, and took the Gentleman (who might well be ſurpriz'd at ſuch a Viſit) into Cuſtody. This gave me time to ſecure thoſe Original Letters, for which the Meſſenger came as well as for me. The next Morn<g ref="char:EOLhyphen"/>ing the Gentleman was ſet at liberty, and the Error of the Meſſenger corrected, and I again taken up. After which I was ſevere<g ref="char:EOLhyphen"/>ly examin'd as a new ſound-out Traitor, and confronted by one that they knew to be ſo. But when they miſs'd the Prey (the Letters) they ſhuffled us both away, ſcarce offering a Reaſon why they brought us thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>I am very ſorry for the trouble the Gentle<g ref="char:EOLhyphen"/>man had on my account, but I am ſure he will excuſe my not thinking it worth while to be hang'd to ſave him that trouble: For had my Papers been ſeiz'd, and out of my own power, it is not to be doubted but they had Evidence enough; and truly I am convinc'd by what they ſhew'd me, that they had 'em in a readineſs to prove my Correſpondence with
+<pb facs="tcp:101770:4"/>Traitors, and might have ſuppreſt the Evi<g ref="char:EOLhyphen"/>dence of my Diſcovery, and the Commiſſion I acted by, as they did the Diſcovery it ſelf, and by that means have taken from me the Inſtruments of my Defence.</p>
+            <p>The next Provocation was, the ſuppreſſing Sir <hi>William Parkyns</hi>'s Petition, which after the ineffectual application of the Honourable Houſe of Commons, I had the fortune to prevail with him to make. Upon this Compliance I apply'd my ſelf to the Duke of <hi>Norfolk</hi> (whoſe noble Temper makes him ready to ſerve any Perſon in diſtreſs) and acquainted him with it: He prepared his Majeſty to re<g ref="char:EOLhyphen"/>ceive it at the Council Board; it was expected, and the Duke ſent to enquire for the Lady <hi>Parkyns,</hi> who was to have preſented the Pe<g ref="char:EOLhyphen"/>tition. But a certain Perſon came to her, and ſent the Lady away full of Sorrow and De<g ref="char:EOLhyphen"/>ſpair, aſſuring her that the Petition wou'd not be receiv'd. The next Morning Sir <hi>William</hi> was executed, to the great diſappointment of the Nation, as well as of his Family, who ex<g ref="char:EOLhyphen"/>pected other things from his Compliance.</p>
+            <p>My forbearance upon theſe Provocations, has been interpreted Fear or Stupidity; and my unreaſonable Enemies imagin'd that they might trample upon me with ſecurity, other<g ref="char:EOLhyphen"/>wiſe they wou'd never have ventur'd to uſe me as they have done, both in the fol<g ref="char:EOLhyphen"/>lowing Letter, and otherwiſe. They have
+<pb n="viii" facs="tcp:101770:5"/>publickly given out that I am a Mad-man. I ſuppoſe they did it upon preſumption, that their own uſage of me muſt needs make me ſo; but they are miſtaken in my Conſtitution, 'tis too ſtubborn to be ſo eaſily bent, and too ſtrong for them to break, how powerful ſo<g ref="char:EOLhyphen"/>ever they may fancy themſelves. It was hard to raiſe me to this pitch of Reſentment; and repeated Injuries, and Indignities were ne<g ref="char:EOLhyphen"/>ceſſary to make me appear thus publickly in my own Defence. But perhaps they may have no occaſion to triumph upon the Succeſs of their Policy, eſpecially if they provoke me to any unwilling proſecution of what I had rather ſhould have lain dormant. They may think me mad for daring to be angry with them; but they are too inſolent, upon a vain preſumption of their own Power, if they think I am to be aw'd by their Frowns, or cruſh'd by any ſhadow of Greatneſs. They may fright Bookſellers and Printers, by threat<g ref="char:EOLhyphen"/>ning to ruin 'em, as they did in the caſe of my <hi>Memoirs</hi> laſt Winter; but they muſt ſtop my Breath, if they would ſtop my Mouth, ſince they have taken ſuch violent Meaſures to open it. But after all, as mad as they would have me to be thought, I believe they will ſcarce be ſo mad as to go about to prove me ſo; leſt it ſhould call the ſoundneſs of their own Brains in queſtion, that could not in a Year and a half's correſpondence find out the Flaw in mine.</p>
+            <pb n="ix" facs="tcp:101770:5"/>
+            <p> I am told by ſome People, that having made my Diſcoveries to Perſons that ſtifled 'em, I can pretend to no Merit upon that ſcore, ſince the King had not the benefit of 'em. To this I can only anſwer, That I made my Ap<g ref="char:EOLhyphen"/>plication to the proper Miniſter; and when I found ſome things not ſo much taken notice of as I thought the Importance of the Caſe requir'd, I apply'd to my Lord <hi>Portland,</hi> but was by him refer'd back to the ſame Perſon again as the proper Miniſter, which I ſuppoſe is a ſufficient juſtification of my Conduct.</p>
+            <p>Yet there are properer Judges of this mat<g ref="char:EOLhyphen"/>ter than either they or I, to whoſe Deciſion I am oblig'd to ſubmit the Conſideration of it, without further canvaſſing.</p>
+            <p>Men are undoubtedly bound in Duty to contribute all that lies in their power to the Publick Security. But the only natural Rea<g ref="char:EOLhyphen"/>ſon that I can find for it, is, becauſe as Mem<g ref="char:EOLhyphen"/>bers of the Publick, they have their principal Security and Protection from it. But that Conſideration alone does not carry men very far; Self-preſervation is a principle of more Caution than Action, and renders men more careful to give no Offence, than to do any Service. It is Hope only that animates 'em for action, and makes 'em forward in its Ser<g ref="char:EOLhyphen"/>vice. They expect that what they do for the Publick, ſhould redound in ſome proportion to their own particular Benefit, and that them<g ref="char:EOLhyphen"/>ſelves
+<pb facs="tcp:101770:6"/>ſhould be conſider'd as Inſtruments, for the Advantages that may accrue to the Pub<g ref="char:EOLhyphen"/>lick, and the fatigue or hazard they expoſe themſelves to. This is ſo univerſally true, that I doubt ſome who pretend to have done the Nation great Service, wou'd abate of their zeal, if they did not find it as neceſſary and advantageous to their own private For<g ref="char:EOLhyphen"/>tune. I ſay not this invidiouſly to leſſen the Services of any man, or to reproach him for the juſt Advantages he may make of 'em, but to obviate the Objections of ſome of my unreaſonable Adverſaries, who pretend my Services loſe their Merit, when I appear to expect any Reward. It's true, ſome of 'em have been very bountiful in their Promiſes; but by late experience I find that he that can't live upon Air, may ſtarve upon ſuch Promiſes. But this is not all the injury I receive from 'em, for they endeavour to rob me of the benefit of his Majeſty's Royal Word, by which I am intitled to his peculiar Protection and Aſſiſtance, a Title upon which no man before my ſelf ever ſued in vain. If I muſt be the firſt unhappy Precedent, I hope I ſhall be the laſt of this nature. The Conſe<g ref="char:EOLhyphen"/>quences of Examples of this kind are ſo dange<g ref="char:EOLhyphen"/>rous, that 'tis my wiſh, the ſpreading of 'em may be prevented. For if Services of the higheſt Importance, and of the greateſt Hazard, ſhall be rewarded with Contempt, and thoſe
+<pb n="xi" facs="tcp:101770:6"/>that do 'em expos'd, ſuch a proſpect will cool mens Zeal, and make 'em rather wiſh Deſigns that may come to their knowledg were prevented, than venture to make the Diſcovery, and meet with ſo diſcouraging a return.</p>
+            <p>What is now my Caſe, may be any man's: It may be his Fortune to know Secrets which he ought not to conceal, and which he will be loth to diſcover, if he expects the ſame uſage that I have met with for it. But I hope thoſe to whoſe care the Nation has committed it ſelf, will take away the ſcandal of ſuch an Example, and in ſpite of all the cunning and malice of my Enemies, remove thoſe Obſta<g ref="char:EOLhyphen"/>cles that in a manner ſo unprecedented, and ſo pernicious in its Conſequences, obſtruct the courſe of his Majeſty's moſt Gracious Fa<g ref="char:EOLhyphen"/>vour towards me, and in ſo notorious a man<g ref="char:EOLhyphen"/>ner trample upon the Honour of his Maje<g ref="char:EOLhyphen"/>ſty's Word, which He himſelf and all the reſt of the Nation eſteem ſo ſacred.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:101770:7"/>
+            <pb n="xiii" facs="tcp:101770:7"/>
+            <head>A Copy of the D— of <hi>S</hi>—'s Letter to the Houſe of LORDS, concerning Capt. <hi>Smyth</hi>'s Papers, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Eyford,</hi> 
+                  <date>13th January <hi>1696/7.</hi>
+                  </date>
+               </dateline>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HAving receiv'd the Commands of the Houſe of Lords to lay before their Lordſhips what Letters I receiv'd from one <hi>Smyth</hi> in <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> laſt; or in caſe I had kept none, then to acquaint the Houſe with what I can remember was contained in them: I am very ſorry not to be able ſo fully to comply with their Lordſhips Directions as I wiſh I could; for having heard long ſince, that this man did pretend to great Merit for his Diſcoveries, and had on ſeveral occaſions, in a very unhandſom manner; complained of me, I did then endeavour to collect what Let<g ref="char:EOLhyphen"/>ters he had ſent me, that I might judg how his Intelligence appear'd when put together; for as it came to me, I could make little of it. But I found I could retrieve ſo few, and thoſe generally of an old Date, (when I had more value for his Intelligence than I had afterwards) that I am al<g ref="char:EOLhyphen"/>moſt certain I have none of thoſe <hi>Letters</hi> left which their Lordſhips deſire to ſee. I ſhall therefore apply my ſelf to give them the beſt ac<g ref="char:EOLhyphen"/>count
+<pb n="xiv" facs="tcp:101770:8"/>I can of what he did inform, that is moſt material at this time; which I am the better able to collect, becauſe ſeveral things he then menti<g ref="char:EOLhyphen"/>on'd fell out ſo true, that I was ſurpriz'd how he could know them and not more, till I underſtood he had his Intelligence from one <hi>Hewet</hi> a Youth that lived with Major <hi>Holmes</hi>'s Brother (I think) and was about that time often employ'd to wait on Sir <hi>George Barclay;</hi> by which means he had opportunity to gueſs or overhear particulars, which otherwiſe I ſuppoſe he might not be truſted with. I remember in Winter, <hi>Smyth</hi> writ very poſitively of an Invaſion intended from <hi>France,</hi> which was to break out at the arrival of the <hi>Tou<g ref="char:EOLhyphen"/>lon</hi> Fleet; and that many Gentlemen of Quality, and Officers were ſent from St. <hi>Germains</hi> on that Deſign. He named Mr. <hi>Henry Brown,</hi> my Lord <hi>Mountague</hi>'s Brother, at one time; at an<g ref="char:EOLhyphen"/>other Sir <hi>George Barclay, Holmes, Counter,</hi> and others. Then he gave hints of ſome great Deſign, which he ſhould ſoon diſcover the bottom of; and afterwards grew more particular, that it was to ſeize the King's Perſon, and named <hi>Bar<g ref="char:EOLhyphen"/>clay, Charnock, Holmes,</hi> and others, as im<g ref="char:EOLhyphen"/>ploy'd in the Villany; and that at the ſame hour this was to be executed, a general Riſing was to be in all the Counties of <hi>England.</hi> He was different in his Accounts about the manner of ſeiz<g ref="char:EOLhyphen"/>ing the King: Sometimes Mr. <hi>Latin</hi>'s Lodg near <hi>Richmond</hi> was to be attack'd, and the Walls ſca<g ref="char:EOLhyphen"/>led by Foot, whilſt he was there. Sometimes an
+<pb n="xv" facs="tcp:101770:8"/>attempt of the like nature was to be made on <hi>Ken<g ref="char:EOLhyphen"/>ſington</hi>-Houſe; and at other times the King was to be ſet upon going to, or coming from Hunting. Near to the day the Aſſaſſination was intended, he was very earneſt for Mony to buy a Horſe and Equipage, upon which I deſired Mr. <hi>V—n</hi> to talk with him, if he knew of his own knowledg any Perſon engaged in ſuch a Deſign: for being never able to bring any thing in confirmation of what he aſſerted, from whom he had it, or at what time it was to be executed, I ſuppoſed there was no truth in the Story; or if there were, I might poſſibly have ſet him out to be engag'd in it. He gave Mr. <hi>V—n</hi> no ſatisfaction upon diſcourſing with him, but proceeded in his Promiſes to him, that nothing could be attempted, but he would give him or me an account of it. When the whole was brought to light, and it appear'd he was not enough in the Secret to have prevented it; I intended notwithſtanding to have done ſomething for him, and at his own deſire conceal'd his Name, to give him an opportunity, as he pretended, to ap<g ref="char:EOLhyphen"/>prehend <hi>Chambers.</hi> In the mean time I had an account that in very publick Places he began to threaten he would complain of me to the Parlia<g ref="char:EOLhyphen"/>ment, whereupon I neither thought it ſafe nor decent to have any more to do with him.</p>
+            <p>What I received relating to the Attempt on his Majeſty's Perſon, or the Invaſion, I always gave the King an account of it, whilſt I was able to wait on him; but being much indiſpoſed, I had
+<pb n="xvi" facs="tcp:101770:9"/>his Majeſty's leave to go into the Country for a few days, where I remained till I was commanded back upon the happy Diſcovery of that horrid De<g ref="char:EOLhyphen"/>ſign.</p>
+            <p>This, my Lord, is all I can collect on the Sub<g ref="char:EOLhyphen"/>ject their Lordſhips are pleaſed to command; I beg the favour it may be communicated to the Houſe, and am,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt, <hi>&amp;c. Sh—y.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="commentary">
+            <pb n="1" facs="tcp:101770:9"/>
+            <head>
+               <hi>REMARKS</hi> upon the foregoing LETTER.</head>
+            <p>BEFORE I enter upon the particular diſſec<g ref="char:EOLhyphen"/>tion of this Letter, it may not be imperti<g ref="char:EOLhyphen"/>nent to take a groſs view of the body to<g ref="char:EOLhyphen"/>gether, by which we ſhall be the better en<g ref="char:EOLhyphen"/>abled to judg of the ſymmetry of the whole, ere we take it to pieces for a nearer Inſpection. The whole drift of this Letter, is to ſtifle, or depreciate a Diſcovery, the Evidence of which his Gr—of <hi>S.</hi> was either not willing, or not able to produce. It is a kind of a Myſtery, that his Gr— ſhould uſe ſo much Artifice againſt one he ſo much deſpis'd. Fear and Contempt never lodg in one breaſt together, and therefore it is ſtrange he ſhould fear the oppo<g ref="char:EOLhyphen"/>ſition of a Man, whoſe Service he ſo much ſlighted. He that treads ſoftly upon a Worm, gives more ſuſpicion of the tenderneſs of his Feet than his Heart, and ſhews a ſtronger Argument of regard to himſelf, than of the poor Creature that he tramples upon. In this Letter his Gr— has revers'd the Me<g ref="char:EOLhyphen"/>thods of all other Politicians. For would he have inſpired others with as great a Contempt for my Services, as he himſelf pretends to have, he ſhould have proved 'em inconſiderable, not call'd 'em ſo, which had they been, nothing could have ſo effectu<g ref="char:EOLhyphen"/>ally demonſtrated as the Letters themſelves. We live in a jealous Age, that takes little upon truſt, and is very apt to ſuſpect the veracity of that Man that refuſes to produce ſuch Evidence as he has. But it ſeems his Gr— was not able to <hi>retrieve</hi> thoſe Letters he received from me, or perhaps he thought it an
+<pb n="2" facs="tcp:101770:10"/>eaſier matter to ſilence me than them. The Letters could neither be brib'd nor aw'd, and therefore the Houſe of Lords was no place for ſuch bold E<g ref="char:EOLhyphen"/>vidences, whoſe Ears are always open to Truth, however oppreſt. It was hard to procure any one to confront them, it was impoſſible to make 'em re<g ref="char:EOLhyphen"/>tract, and therefore it was the ſafeſt way to keep them from coming there. It was ſurely a ſtrange piece of Conduct in his Gr— to loſe thoſe Letters, and directly repugnant to that cautious Charac<g ref="char:EOLhyphen"/>ter which he aſſects towards the end of his Letter. But ſome Mens overſights are of greater ſervice to 'em, than their circumſpection. Of how little im<g ref="char:EOLhyphen"/>portance ſoever he might think the Contents, it had been but Prudence to have preſerv'd thoſe Letters, eſpecially ſince he owns <hi>he had heard I complained of him.</hi> A man that expected to be accuſed, even ſo far as to doubt his ſafety, would ſurely not part ſo negligently with the undeniable proofs of his Inno<g ref="char:EOLhyphen"/>cence. Had I harbour'd any ſuch malicious Deſign, I could not have wiſh'd for a fairer occaſion of charging what I pleaſed upon him, than when his own Negligence had cut off all means of making his Defence. But if they were not ſuch Trifles, then they ought by no means to have been ſo careleſly diſpoſed of: for any thing the D— knows, thoſe very Letters might come into the hands of the King's Enemies, and make that which was intended for his Information, a warning to them, and a caution to act more cloſely for the future. But if the D— had ſo light an opinion of 'em, it muſt be either becauſe he thought the Diſcoveries therein contained were of no Importance, if true; or becauſe I had not Credit with him to inforce a belief. Now the ſub<g ref="char:EOLhyphen"/>ject of them was <hi>a Plot to further the intended In<g ref="char:EOLhyphen"/>vaſion of the Nation, and to aſſaſſinate the Perſon of the King.</hi> I preſume he will not pretend that theſe
+<pb n="3" facs="tcp:101770:10"/>were matters not worth his notice, if he believed my Informations to be true: It muſt therefore be that he had not Conſidence enough in me to regard what I ſaid. Yet in this very Letter his Gr— is pleaſed to confeſs that I did very early inform him of the Preparations that were making in <hi>France</hi> to invade <hi>England,</hi> and that he had then more value for my Intelligence. It may be obſerv'd, that while what I ſaid was doubtful, it paſs'd for Au<g ref="char:EOLhyphen"/>thentick; but Time, which fully confirm'd the truth of it, deſtroy'd the Credit. For when I gave him Information of the <hi>Toulon</hi> Fleet, while it was mat<g ref="char:EOLhyphen"/>ter of ſecret Intelligence only, I was believ'd, tho the certainty of my Diſcoveries was not yet brought to light. But when the truth of 'em was fully proved, which with a reaſonable Man that had doubted me before, ſhould have given me ſufficient Credit; that which I before had, was blaſted on the ſudden, without any apparent reaſon, unleſs it were that my Diſcoveries were true. For when I came with a ſecond of greater importance than the former, concerning no leſs than <hi>the Life of the King,</hi> it ſeems it was not regarded, notwithſtand<g ref="char:EOLhyphen"/>ing the confirmation of the Deſcent; which was a matter concerning which my Intelligence was more remote, and conſequently more dubious. But there are ſome unhappy Conſtitutions with whom every thing works the wrong way.</p>
+            <p>Had my Informations been falſe, perplext, or trifling, his Gr— had had ſome reaſon to have re<g ref="char:EOLhyphen"/>jected what I ſhould offer for the future: But he is pleaſed to own that the Accounts which I gave him, were <hi>ſurprizingly true;</hi> and he does me the further honour to ſay, that <hi>in Winter I writ very poſitively of an Invaſion from</hi> France; which I mention becauſe it ſhews my Accounts were neither wavering nor per<g ref="char:EOLhyphen"/>plext. And I leave it to the judgment of the Read<g ref="char:EOLhyphen"/>er,
+<pb n="4" facs="tcp:101770:11"/>whether an Invaſion from ſo powerful an Enemy as <hi>France,</hi> was a thing to be ſlighted; and conſe<g ref="char:EOLhyphen"/>quently whether an early notice (early enough it ſeems to <hi>ſurprize</hi> a Miniſter of State) was a trifle, or the Perſon that could give it, to be treated with neglect.</p>
+            <p>But his Gr—alledges three things in juſtification of the <hi>ſingularity</hi> of his Conduct in this Caſe. The firſt is,
+<q>
+                  <l>That I had my Informations from one <hi>Hewet,</hi> a Youth that liv'd with Major <hi>Holmes's</hi> Brother.</l>
+                  <l>
+                     <hi>The next,</hi> That I was different in my Accounts con<g ref="char:EOLhyphen"/>cerning the manner of ſeizing the King.</l>
+                  <l>
+                     <hi>The third,</hi> That upon the whole it appear'd I was not enough in the Secret to prevent it.</l>
+               </q>
+            </p>
+            <p>To theſe three things it may be neceſſary to make ſome anſwer, tho I think nothing can be a more ſufficient <hi>Refutation,</hi> than to compare the ſeveral particulars of the Letter together.</p>
+            <p>His Gr—inſinuates that he had ſlighted my In<g ref="char:EOLhyphen"/>formations upon the ſcore of the Perſon from whom only (as he would intimate) I receiv'd my Intelli<g ref="char:EOLhyphen"/>gence, viz. <hi>one</hi> Hewet <hi>a youth that lived with Ma<g ref="char:EOLhyphen"/>jor</hi> Holmes<hi>'s Brother.</hi> By which he ſeems deſirous to have more underſtood than he directly expreſſes, <hi>viz.</hi> That my Intelligencer was no better than a foot-Boy: and therefore the Informations from ſuch a Perſon were not to be regarded. But had it been as his Gr— would have the World to believe, had my Intelligencer been a Boy, and a Servant; if this Boy was intruſted with ſecrets of ſuch Mo<g ref="char:EOLhyphen"/>ment, he was for that the more proper Perſon to correſpond with. For his Age would have ren<g ref="char:EOLhyphen"/>der'd him the leſs cautious of imparting his Secrets, than an older man probably would have been: and the meanneſs of his Condition would have expoſed him more to the temptation of Mony; which his
+<pb n="5" facs="tcp:101770:11"/>Gr— knows I was never ſparing of, ſo far as I was ſupply'd, and even farther to my own detriment. But I always thought that in Diſcoveries of this nature, the Importance of the matter had been to be weigh'd more than the Quality of the Diſcover<g ref="char:EOLhyphen"/>er. And it is plain if the D— had been of my mind, Mr. <hi>Pendergraſs</hi> had never been thought the firſt that did his Country that Service; and the <hi>ſur<g ref="char:EOLhyphen"/>prizing</hi> truths (as his Gr— is pleaſed to ſtile 'em) which I had before open'd to him, ought to have ſupported the Credit of any thing that had come the ſame way. But neither was my Intelligencer ſo low in Age or Circumſtances, as in that Letter is inſinuated; for he was not a Servant to Major <hi>Holmes</hi>'s Brother, but Nephew to Major <hi>Holmes</hi> himſelf, one of the principal <hi>Aſſaſſins:</hi> Nor was he ſo very young as not to be at years of Diſcretion, according to our Laws; and of an Age which all the World allows to be the ſitteſt, if not to ad<g ref="char:EOLhyphen"/>viſe, at leaſt to execute the boldeſt Enterpriſe. How far this Perſon was intruſted with the Secret, and engag'd in the matter, I have already, in an Appendix to my former Book, delivered at large; where the Reader will find that he was preſent at many of the Debates, and actually included in the number of the <hi>Aſſaſſins:</hi> I ſhall therefore refer the Reader thither for his further ſatisfaction. Upon the whole, I believe you will conclude with me, that this was no improper Perſon for me to cor<g ref="char:EOLhyphen"/>reſpond with, ſince Informations of this nature are not ſo eaſily to be had from riper heads.</p>
+            <p>Upon this occaſion his Gr— uſes an Expreſſion, which looks ſomething like an Equivocation, for he ſays, <hi>till I underſtood he had his Intelligence from one</hi> Hewet; by which it's plain he would be underſtood to mean <hi>All</hi> my Intelligence. But his Gr— knew the contrary too well to ſay ſo in expreſs terms,
+<pb n="6" facs="tcp:101770:12"/>and therefore left the Reader to ſupply that com<g ref="char:EOLhyphen"/>prehenſive monoſyllable, which his own Honour would not give him leave to inſert.<note place="margin">Memoirs from <hi>p. 31.</hi> to <hi>p. 67.</hi>
+               </note>I had correſponded with his Gr— a whole Year before I knew <hi>Hewet,</hi> and had made divers Diſcoveries to his Gr—, which he did not think ſo inconſiderable, as appears by his own Letter. For thoſe <hi>Truths,</hi> of which he ſays <hi>he was ſurpriz'd how I could know 'em,</hi> many of them were communicated to him before I knew <hi>Hewet;</hi> and moſt of 'em, both before and after my Correſpond<g ref="char:EOLhyphen"/>ence with him, upon Authority in this matter much more conſiderable than his.<note place="margin">
+                  <hi>Mem.</hi> p. 35.</note> His Gr— knew my Relation to, and Intereſt in Sir <hi>William Parkyns,</hi> and that nothing that he did or engag'd in, was a ſecret to me. He knew I was no ſtranger to Sir <hi>John Friend, Charnock,</hi>
+               <note place="margin">
+                  <hi>Mem.</hi> p. 97.</note> 
+               <hi>Lea, Holmes,</hi> Capt, <hi>Stowe, Chambers, Boyſe,</hi> and divers of the moſt conſider<g ref="char:EOLhyphen"/>able and zealous of the Party, as my <hi>Memoirs</hi> have ſhewn. He muſt therefore have a very odd ſort of Underſtanding that runs counter to his Knowledg, when he underſtands that I had all my Intelligence from <hi>Hewet,</hi> tho he knew the contrary. Beſides, this ſeems to me a new piece of State-craft, to doubt after Conviction, and argue againſt Demon<g ref="char:EOLhyphen"/>ſtration. Yet this is his Method in this Caſe: for while the matter was a Secret, he never made the Quality of my Intelligencer an Objection to the Validity of his Intelligence; but when collateral Diſcoverers came in afterwards, and confirm'd the truth of what I had ſaid, he then begins to con<g ref="char:EOLhyphen"/>ſider how far he ought to give Credit to me, and what value to put upon my Informations: and then finds the quality of my Intelligencer to be ſuch, that it brings my Intelligence into diſeſteem with him; altho he profeſſes himſelf fully ſatisfy'd with
+<pb n="7" facs="tcp:101770:12"/>the Diſcoveries of thoſe who came in confirmation of what I had reported: As if what was true in their mouths, cou'd be otherwiſe in mine. But perhaps it was convenient that their Informations ſhould be true, and not mine, tho the ſame; if ſo, I ſubmit to his Gr—'s better Judgment.</p>
+            <p>The Second Objection is, <hi>That I was different in my Accounts about the manner of ſeizing the King. Sometimes Mr.</hi> Latin<hi>'s Lodg near</hi> Richmond <hi>was to be attack'd, and the Walls ſealed by Foot whilſt his Maje<g ref="char:EOLhyphen"/>ſty was there. Sometimes an Attempt of the like na<g ref="char:EOLhyphen"/>ture was to be made on</hi> Kenſington-<hi>Houſe; and at other times, the King was to be ſet upon going to, or coming from Hunting.</hi>
+            </p>
+            <p>Granting all this to be true, I can't ſee where the force of this Objection lies. If they were irreſolute or unſixt in their Meaſures, could I give a conſtant uniform account of 'em? But neither were they more wavering or unſettl'd than the nature of the Undertaking it ſelf requir'd: For they were ſteady in their Reſolution, and the end of their Deſign, which was <hi>to kill the King,</hi> and differ'd only about the Method of putting it in Execution. It cannot be ſuppoſed that a number of Men who engage voluntarily in a Deſign of ſuch hazard to 'em all, none having Authority over another, ſhould jump ſo luckily upon the ſame Scheme, as to conclude their Meaſures upon their firſt meeting. Men are naturally too fond of their own Senſe, and too ambitious of ſhewing it, to acquieſce immedi<g ref="char:EOLhyphen"/>ately in the Propoſals of another, how reaſonable ſoever; till by a new Turn, or Arguments of their own, they have ſtampt their own Image upon it, and pretend ſome Title to the Invention. What wonder then, if an Affair of this Danger and Con<g ref="char:EOLhyphen"/>ſequence, in which every man pretends to be wiſe
+<pb n="8" facs="tcp:101770:13"/>for himſelf, produce Debates and frequent Altera<g ref="char:EOLhyphen"/>tions of their Meaſures?</p>
+            <p>But what need of reaſoning in a Matter of Fact? It is now well known, and all the Depoſitions ſince concerning that matter have prov'd, that they did alter and vary their Reſolutions: and the uncer<g ref="char:EOLhyphen"/>tainty which is objected to my Accounts of 'em, is a demonſtration of their Truth and Exactneſs. It manifeſtly evinces, that I was conſtantly ac<g ref="char:EOLhyphen"/>quainted with the moſt minute Paſſages, and that I was nice and exact to a ſcruple, in the Informa<g ref="char:EOLhyphen"/>tions which I gave his Gr—. Whoever will take the pains to compare the Evidences of Captain <hi>Porter,</hi> and Mr. <hi>Pendergraſs,</hi> with my <hi>Memoirs,</hi> will find there a ſufficient Confirmation of every Tittle that I ſay, tho he will plainly ſee that they were even then but half inform'd of thoſe things which I had long before fully diſcovered. But however, or for what Reaſons ſoever it hapned, this dili<g ref="char:EOLhyphen"/>gence and exactneſs of mine (it ſeems) likewiſe turn'd to my prejudice, as if my Accounts were of leſs value for being minute and clear. They had projected their Deſign different ways, of all which I gave his Gr— Information while they were un<g ref="char:EOLhyphen"/>der conſideration among them. Some of 'em upon further canvaſſing were found not feizable enough, and therefore were laid aſide: Yet that creates no perplexity, nor ought to raiſe any doubt of my Accounts, becauſe I could not reſpite my Informa<g ref="char:EOLhyphen"/>tions till all Points were exactly adjuſted, leſt I ſhould be prevented by an immediate Execution. Such was the Project of conveying the King alive to <hi>France,</hi> which (as I have elſewhere hinted to his Gr—) may be ſuppoſed only a Pretence to gild the Pill to thoſe whoſe ſqueamiſh Stomach would not ſo eaſily digeſt the Aſſaſſination naked, which
+<pb n="9" facs="tcp:101770:13"/>was actually projected; and therefore I was ob<g ref="char:EOLhyphen"/>lig'd to give an Account of it, as I had it from them, tho I hinted my Suſpicion that ſomething elſe was intended by it. Such likewiſe was the Deſign of attacking the King by Ambuſcade in <hi>Richmond</hi> Park, in which they proceed<g ref="char:EOLhyphen"/>ed ſo far as to ſend Captain <hi>Porter,</hi>
+               <note place="margin">
+                  <hi>Vid.</hi> Char<g ref="char:EOLhyphen"/>nock's Trial.</note>
+               <hi>Knightly,</hi> and <hi>King,</hi> to view the Ground, yet afterward laid it aſide. And who knows whether that which now appears their laſt Reſolu<g ref="char:EOLhyphen"/>tion, had not likewiſe been chang'd for ſome other, had the Conſpirators continued longer undiſperſed? The End and Aim of all, was to take away the Life of the King; the manner of doing it, what<g ref="char:EOLhyphen"/>ever Scheme they might draw to themſelves, muſt be taken from Time and Occaſion, which only could ſuggeſt what was proper to be done. They were all reſolv'd and provided to do the thing, and any convenient place or time had ſerv'd their turn, how different ſoever from thoſe they had propoſed to themſelves.</p>
+            <p>His Gr— therefore very much over-ſhoots him<g ref="char:EOLhyphen"/>ſelf, when he charges me with aſſigning no time for the Execution of this Deſign. For I was as particular in the time, as it was poſſible for any Man to be, without a ſupernatural Pre<g ref="char:EOLhyphen"/>ſcience.<note place="margin">
+                  <hi>Mem.</hi> p. 116.</note>I was poſitive that they were in a readineſs to attack the King the firſt time he went a Hunting or Shooting, and themſelves could tell no more; nor his Gr— in reaſon expect more from me, unleſs he would have me aſſign a time when the King ſhould go a Hunting or Shooting.</p>
+            <p>I hope therefore that my Informations were full and certain enough to have ſatisfy'd any reaſonable Man of their Truth, if they did not the D—. I muſt for his Gr—'s Honour ſuppoſe he has ſome more ſubſtantial Reaſon than he produces: And
+<pb n="10" facs="tcp:101770:14"/>till he does it, I ſhall preſume that nothing is want<g ref="char:EOLhyphen"/>ing to the ſatisfaction of my Reader.</p>
+            <p>One thing more I muſt take notice of, that is, That tho his Gr— charges me with differing in my Accounts, yet he is not able to make out any Incon<g ref="char:EOLhyphen"/>ſiſtency. For tho in his Letter, by<note n="*" place="bottom">
+                  <hi>Viz.</hi> The Diſcovery of the Arms which were ſeized in <hi>Warwick<g ref="char:EOLhyphen"/>ſhire,</hi> and are now lodg'd in the <hi>Tower;</hi> with divers other Diſ<g ref="char:EOLhyphen"/>coveries ſet forth in my <hi>Memoirs,</hi> to which I refer the Reader.</note> ſuppreſſing, mutilating, disjoynting, and altering, he has giv<g ref="char:EOLhyphen"/>en ſuch a Draught of my Informations, that were not my Name mention'd in the Letter, I ſhould not think it meant of me; yet even his Account of my Services, lame and defective as it is, ſhews that I neither prevaricated, nor conceal'd any thing from thoſe Miniſters with whom I corre<g ref="char:EOLhyphen"/>ſponded. Whether they can ſay as much for them<g ref="char:EOLhyphen"/>ſelves, I leave others to judg.</p>
+            <p>The third Article againſt me is, <hi>That I was not enough in the Secret to have prevented it.</hi>
+            </p>
+            <p>It is matter of Fact, that his Gr— is in the right of this. For tho I made an ample and early diſcovery, time has ſhewn that it ſignify'd nothing towards the preventing the Execution of that Deſign. But whoſe the fault was, and what was the Secret, which he ſays <hi>I was not enough in,</hi> his Gr— can beſt tell. It's plain he can't mean the Plot: For I gave him, long before any other Diſcoverer came in, a fuller and exacter account of that, than has yet been given by any other Perſon.<note place="margin">
+                  <hi>Mem.</hi> p. 107, <hi>to</hi> p. 118.</note> From the <hi>10th</hi> of <hi>February</hi> 1695, I gave him daily an Account of what was in Agitation, and of all the Moves of that party. And upon the <hi>14th, 18th,</hi> and <hi>19th,</hi> I inform'd him and Mr. <hi>V</hi>— by his Order, particularly of the Deſign a<g ref="char:EOLhyphen"/>gainſt the King's Perſon and Life. The latter
+<pb n="11" facs="tcp:101770:14"/>may remember what I then ſaid to him, by a par<g ref="char:EOLhyphen"/>ticular Anſwer that he made me. When I had in<g ref="char:EOLhyphen"/>form'd him fully of the deſign to kill the King the firſt time he went out to Hunt or Shoot, and had acquainted him with the Names of the principal Perſons engag'd in it; I deſired that the King might be intreated for ſome time at leaſt to for<g ref="char:EOLhyphen"/>bear thoſe diverſions. He retorted, <hi>What would you have the King coop'd up?</hi>
+               <note place="margin">
+                  <hi>Mem.</hi> p. 111.</note>This Anſwer I take notice of, becauſe it may give ſome light what was the Secret which <hi>I was not enough in.</hi> And this the more ſurpriz'd me, becauſe I always thought it the Duty of a Servant to ac<g ref="char:EOLhyphen"/>quaint his Maſter with things of this nature, and not to pretend to determine for him, before his Pleaſure was known in it. On the <hi>19th</hi> I wrote his Gr— a full Account of the intended Aſſaſſination,<note place="margin">
+                  <hi>Mem.</hi> p. 115, <hi>to</hi> p. 118.</note> with the Names of the principal Conſpirators, and the Manner, Place, and Time, (as far as time could be ſet) which was the firſt time the King went out to Hunt or Shoot. This was in Subſtance what I had told Mr. <hi>V</hi>— the day before in a Perſonal Conference.</p>
+            <p>I can't tell what his Gr— calls being in a Secret. But if to know all, be to be in the Secret, I think I was ſufficiently in it, and his Gr— and Mr. <hi>V</hi>— too by my means. But why my Informations were not ſufficient to prevent it, they only know. All that appears to me to have been neceſſary to pre<g ref="char:EOLhyphen"/>vent it, was, that his Majeſty ſhould be acquainted with the Deſign, and the Danger that threaten'd his Life, which I had put it in their Power to do.</p>
+            <p>And that this was enough is appa<g ref="char:EOLhyphen"/>rent:<note place="margin">
+                  <hi>Vid.</hi> Charn. Trial.</note>For the Night before it was to be executed, Mr. <hi>Pendergraſs</hi>'s going to
+<pb n="12" facs="tcp:101770:15"/>my Lord <hi>Portland,</hi> and acquainting him with the Deſign, was ſufficient to defeat it, tho he refuſed to give any Names. It may be worth our while to obſerve, how differently his Majeſty and my Lord <hi>Portland</hi> thought on this matter from his Gr—. Mr. <hi>Pendergraſs,</hi> an abſolute Stranger, mean both in Condition and Figure, goes to my Lord <hi>Portland,</hi> and acquaints him with the Deſign in general, and refuſes to name any Perſons concern'd; yet this does not deſtroy his Credit. He is admitted to the King, believed, and preſs'd to diſcover the Perſons; no Vouchers are requir'd for his Credit, nor Doubts or Scruples ſtarted about the reality of his Diſcovery, tho a very obſcure Man. He is only urg'd to make his Diſcovery more ample, and to inform his Majeſty who the Traitors were, which he was hardly to be won to, tho it was the King himſelf that preſs'd it, who is rather accus'd of being unwilling to receive Reports. Had his Ma<g ref="char:EOLhyphen"/>jeſty been as ſcrupulous in this Caſe as his Gr—, what had become of Mr. <hi>Pendergraſs</hi>'s Diſcovery? Undoubtedly his Majeſty had gon out next Morning, and the Deſign had been executed. But his Majeſty in his Wiſdom conſider'd the Nature and Impor<g ref="char:EOLhyphen"/>tance of the thing, more than the Quality of the Diſcoverer.</p>
+            <p>It will not coſt us much trouble to ſhew how much more difficult it is to ſatisfy his Gr— than his Majeſty.<note place="margin">
+                  <hi>Mem.</hi> p. 33.</note> His Gr— knew <hi>what I was, and had been,</hi> before I enter'd into any Coreſpondence with him. Before this Buſineſs he had held about fourteen Months Correſpondence with me, and had received Informations at divers times, which <hi>fell out ſo true, that he was ſurpriz'd how I could know 'em;</hi> and how far he <hi>had a Value for my Intelligence,</hi>
+               <note place="margin">
+                  <hi>Mem.</hi> p. 41, 69, 73, 113.</note> his ſet<g ref="char:EOLhyphen"/>tling a Penſion, and promiſing further Rewards, may ſhew.</p>
+            <pb n="13" facs="tcp:101770:15"/>
+            <p> But whether he or Mr. <hi>V</hi>— were ſatisfy'd, is not ſo much my buſineſs to ſhew, as that they had reaſon to be ſatisfy'd: Which I hope after what I have ſaid, can be no Queſtion. If to inform him fully of the Matter, the Manner, the Time, (as far as a moveable time can be aſſign'd) and the Perſons engag'd, were no ſatisfaction, they ſhould have told me what would be. For I muſt confeſs at the time I correſponded with them, they did not appear to me ſo ſcrupulous, nor will they (I fan<g ref="char:EOLhyphen"/>cy) by their own Letters appear ſo to the World.</p>
+            <p>In Winter he ſays, I <hi>writ very poſitively of an In<g ref="char:EOLhyphen"/>vaſion intended from</hi> France, <hi>which was to break out at the arrival of the</hi> Toulon <hi>Fleet.</hi> I did ſo; and whether that is true or no, is now paſt doubt. <hi>Then</hi> (he ſays) I <hi>gave Hints of ſome great Deſign, which I ſhould ſoon diſcover the bottom of; and after<g ref="char:EOLhyphen"/>wards grew more particular, that it was to ſeize the King's Perſon, and named</hi> Barclay, Charnock, Holmes, <hi>and others, as employ'd in the Villany.</hi> Theſe hints (as his Gr— calls 'em) would from any body elſe have deſerved another name: For they were not Hints, but poſitive Accounts of the whole mat<g ref="char:EOLhyphen"/>ter from time to time, as it proceeded, with all its Alterations and Amendments. What was meant by ſeizing the King I have already ſaid, which at that very time I made his Gr— and Mr. <hi>V</hi>— no ſtrangers to. Of the ſeveral Methods that were pro<g ref="char:EOLhyphen"/>jected for the execution of it, I gave them daily an account; in which I was ſo early, and ſo particular, that from the firſt conception of it, nothing was offer'd amongſt the Conſpirators, of which his Gr— had not an immediate and minute Information. Of my care and exactneſs in this matter, this I think may be a ſufficient Evidence, that nothing eſcap'd me; and yet I was ſo far from amuſing him with Reports or <hi>Conjectures,</hi> that all my Informations
+<pb n="14" facs="tcp:101770:16"/>have ſince been verify'd to a tittle. I gave him an exact and full account how, and when the pro<g ref="char:EOLhyphen"/>ject of the Aſſaſſination was to be executed; I na<g ref="char:EOLhyphen"/>med all the principal Perſons con<g ref="char:EOLhyphen"/>cern'd in it,<note place="margin">
+                  <hi>Mem.</hi> p. 115.</note> 
+               <hi>viz.</hi> Sir <hi>George Barclay,</hi> Major <hi>Holmes,</hi> Captain <hi>Charnock,</hi> Captain <hi>George Porter,</hi> Mr. <hi>Chambers,</hi> Captain <hi>Boyſe,</hi> &amp;c. and told them what Rewards they had articl'd for. And what I think I ought to take notice of, is, that I named not one Perſon whoſe Engagement in this matter has not ſince been ſufficiently made out by others: Whereas upon latter Informations ſeveral thouſand Pounds have been thrown away by Pro<g ref="char:EOLhyphen"/>clamation to take Perſons, upon whom, when taken, nothing could be ſixt. Which ſufficiently evidences how careful I was to conceal nothing from him, and yet to wrong no body by falſe ſuggeſtions.</p>
+            <p>By this time I ſuppoſe it may appear that I was enough in the Secret to have prevented it, and he too, and more than he that did it, however it fell out that we could not: this may ſtill appear dark to ſome who are reſolv'd not to ſee. But thoſe that think to conceal plain matters, by winking them<g ref="char:EOLhyphen"/>ſelves, ought firſt to be ſure that all other men are blind.</p>
+            <p>I hope by what has been already ſaid, I have made it pretty evident, that if I did <hi>pretend to</hi> ſome <hi>Merit for</hi> my <hi>Diſcoveries,</hi> it was not without reaſon. And the manner in which his Majeſty has conſider'd others who came after me for the like, ſhews that in his Opinion ſuch Services are meri<g ref="char:EOLhyphen"/>torious. Nay however inconſiſtent it may ſeem with his Gr—'s charge upon me of <hi>pretending to Merit,</hi> his Gr— himſelf in this very Letter owns that he <hi>intended to do ſomething for me.</hi> If I deſerv'd nothing, I am extremely oblig'd to his Gr— for his bounteous Intentions, and muſt confeſs that no
+<pb n="15" facs="tcp:101770:16"/>man could have been more rigorouſly juſt; for up<g ref="char:EOLhyphen"/>on that ſuppoſition, they have been worth juſt as much to me as I deſerv'd. What his Gr— <hi>intend<g ref="char:EOLhyphen"/>ed</hi> is beſt known to himſelf, which for all that has been done may poſſibly be ſtill a Secret: but what he promis'd I very well remember, tho poſſibly his Gr— may have long ſince forgot. What thoſe were, the Reader may find in my <hi>Memoirs,</hi> p. 41, 69, 73, 113. How the Conditions were perform'd on my part, is already ſufficiently made out; and how on his Gr—'s, I ſuppoſe the Reader needs not to be told. What his Promiſes were is very plain, tho his Intentions may be ſtill in the dark: At leaſt I am oblig'd to take his Gr—'s word for 'em, and I hope I ſhall never want a juſt value for that. The taking me up, and the attempt to ſeize my Papers, ſhews that ſome Reward was <hi>intended</hi> me, tho I am modeſtly contented to have miſs'd it. What<g ref="char:EOLhyphen"/>ever Reaſons I think I have to <hi>complain,</hi> the Miſ<g ref="char:EOLhyphen"/>carriage of that well-meant piece of Service is none of 'em.</p>
+            <p>His Gr— is pleaſed to ſay twice in his Letter, that I <hi>complain'd of</hi> him: and I appeal to the Reader, whether I had not reaſon. But that I did it in an <hi>unhandſom manner,</hi> or <hi>threaten'd</hi> to do it in <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> I muſt take the liberty to deny. It's true, I was taken and carried, in the Cuſtody of the <hi>Ser<g ref="char:EOLhyphen"/>jant</hi> at <hi>Arms,</hi> before the <hi>Houſe</hi> of <hi>Lords;</hi> and my Papers which I had left ſeal'd up in the hands of the <hi>Secretary</hi> of <hi>State,</hi> were by him brought into the <hi>Houſe,</hi> where the Papers were read, and I being up<g ref="char:EOLhyphen"/>on <hi>Oath,</hi> was oblig'd to juſtify 'em. Among theſe were Copies of all my Letters to his Gr—, with his, and Mr. <hi>V</hi>—'s <hi>Original</hi> Anſwers. If they could <hi>complain</hi> of him, he was complained of in Parlia<g ref="char:EOLhyphen"/>ment; but it was far from my intention or deſire it ſhould be ſo. For did I ſay any thing there relating
+<pb n="16" facs="tcp:101770:17"/>to his Gr—, which was not extorted from me by Queſtions, to which I was bound by Oath to make a true anſwer? Had I then had any ſuch deſign, I had the faireſt occaſion in the World to have ſhew'd my Reſentments, which I wholly wav'd, whatever Provocations I had to the contrary.</p>
+            <p>After I found my ſelf ſlighted, and had reaſon to ſuſpect that my Diſcoveries were <hi>ſuppreſt,</hi> I did then make my Applications elſewhere, in order to procure that the King might be acquainted, tho late, with what I had done for his Service. Nor ought his Gr— to take that ill. For if my Diſco<g ref="char:EOLhyphen"/>veries deſerv'd no more regard than I found he had paid to 'em, my applying to thoſe Honourable Per<g ref="char:EOLhyphen"/>ſons would only have expoſed me, and juſtify'd him. But if they did really deſerve to be conſider'd, I had no reaſon to loſe the benefit of 'em by ano<g ref="char:EOLhyphen"/>thers Neglect, or to have any tenderneſs for a Perſon who had uſed me ſo ill. However I can ap<g ref="char:EOLhyphen"/>peal to thoſe Honourable Perſons, whoſe Names are to be found in the Introduction to my <hi>Memoirs,</hi> whether I reflected on his Gr—, or ſpoke <hi>unhand<g ref="char:EOLhyphen"/>ſomly</hi> of him.</p>
+            <p>What therefore could move him <hi>to think it nei<g ref="char:EOLhyphen"/>ther ſafe nor decent to have any more to do with</hi> me, is a <hi>myſtery</hi> he can beſt unfold: For if his Gr— had done his Duty in this matter, what had he to fear from me? Had I ventur'd to accuſe him of any thing that was falſe, the King, and even my own Letters would have juſtify'd him. But ſo far was I from giving him any juſt Umbrage of ſuch a thing, that I purpoſely wav'd ſaying any thing more that was true of him, than as I have already obſerv'd was extorted from me, altho I had then ſuch an Oppor<g ref="char:EOLhyphen"/>tunity as I could never expect again, which I was not ignorant of at that time. As for the Point of <hi>Decency,</hi> I can't ſee how it could be <hi>indecent,</hi> unleſs it
+<pb n="17" facs="tcp:101770:17"/>be one way, which if he means I muſt agree with him, that it was by no means honourable to uſe the Service of a Gentleman whom he was reſolv'd never to conſider for it.</p>
+            <p>His Gr— at the end of his Letter ſays, <hi>That what he receiv'd relating to the Attempt on his Majeſty's Per<g ref="char:EOLhyphen"/>ſon, or the Invaſion, he always gave the King an ac<g ref="char:EOLhyphen"/>count of it, whilſt he was in Town and able to wait on him. But being much indiſpoſed he had his Majeſty's leave to go into the Country for a few days; where he remain'd till he was commanded back upon the happy diſcovery of that horrid Deſign.</hi>
+            </p>
+            <p>If his Gr— did as he ſays, which I ſhould be un<g ref="char:EOLhyphen"/>willing to queſtion, did not two or three Expreſſi<g ref="char:EOLhyphen"/>ons in this very Letter, and ſome in this very Para<g ref="char:EOLhyphen"/>graph give me juſt occaſion to do ſo, I ſhould think he had acquitted himſelf, at leaſt to the King. For if he had acquainted his Majeſty with all that I in<g ref="char:EOLhyphen"/>form'd him of in this Matter, how comes he to talk of a <hi>happy Diſcovery</hi> made in his abſence? It ſeems ab<g ref="char:EOLhyphen"/>ſurd to ſay, that <hi>horrid Deſign</hi> of which they had be<g ref="char:EOLhyphen"/>fore been more amply inform'd, was then diſco<g ref="char:EOLhyphen"/>ver'd: For if there had been occaſion for his aſſiſtance in Town, it ſeems more reaſonable to have ſtaid him than to let him go, and ſend for him back again: To what end ſhould he be recall'd to be made acquainted with what they knew he was thorowly inform'd of before, and of which they had their firſt Advice from him? But the very wording of this Paragraph looks like Prevarication by the Limitations, <hi>whilſt</hi> he <hi>was in Town, and able to wait on</hi> his Majeſty. I can't tell whether he was able to wait on the King on <hi>Friday</hi> the <hi>21ſt</hi> of <hi>February</hi> 1695. but he was a<g ref="char:EOLhyphen"/>ble to go out of Town that day, which was the day before the Deſign was to have been executed, and muſt of neceſſity go through <hi>Kenſington,</hi> if he took the direct Road to <hi>Stoner</hi>-houſe. But certain<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:101770:18"/>if he was not able to wait on the King, he was at leaſt able to have ſent my Letter which was da<g ref="char:EOLhyphen"/>ted <hi>Wedneſday</hi> the <hi>19th,</hi> and delivered by Mr. <hi>V— Thurſday</hi> the <hi>20th</hi> in the morning;<note place="margin">
+                  <hi>Mem.</hi> p. 119.</note> and contain'd a fuller and more exact ac<g ref="char:EOLhyphen"/>count than Mr. <hi>Pendergraſs</hi> was able to give, who was the happy diſcoverer that occaſion'd him to be recall'd. The Queſtion then is, What ſort of Account he then gave his Majeſty; for if we may believe the beginning of his Letter, he <hi>could make little of it.</hi> I am ſorry his Gr— was ſo puzled with a plain matter; for I am conſident any body elſe that reads that Letter,<note place="margin">
+                  <hi>Mem.</hi> p. 110.</note> and the Minutes of the <hi>18th,</hi> will preſently make enough of it. His Gr— does not ſeem to conſult his Ho<g ref="char:EOLhyphen"/>nour, when he ſo much undervalues his own Ca<g ref="char:EOLhyphen"/>pacity. Had he ſubmitted the Letter it ſelf to his Majeſty, a Prince of his acuteneſs and diſcern<g ref="char:EOLhyphen"/>ment would ſoon have inform'd him there was no Riddle in it. He ſeems to have more <hi>tenderneſs</hi> for the reputation of his <hi>Courage,</hi> when upon my preſ<g ref="char:EOLhyphen"/>ſing the Danger earneſtly upon him, he ſlights it ſo far as to ſend me word by Mr. <hi>V</hi>—, that he <hi>was go<g ref="char:EOLhyphen"/>ing out of Town for three or four days,</hi>
+               <note place="margin">
+                  <hi>Mem.</hi> p. 119.</note>
+               <hi>and thought it would be time enough to conſider of my Demands at his return.</hi> By which time, had no collateral Diſcoverers come in, the Buſineſs had been over. But his Anſwer did not ſtop me from preſſing my perſonal admittance to the King to Mr. <hi>V</hi>—, who put me off till the D—'s return:<note place="margin">
+                  <hi>Mem.</hi> p. 122.</note> And on <hi>Saturday</hi> the two and twentieth queſtion'd me, <hi>Whether I had not been already with the King, or my Lord</hi> Port<g ref="char:EOLhyphen"/>land? And when I anſwer'd him, <hi>No;</hi> told me <hi>that the King had received notice, and did not thereupon go a hunting.</hi> Whereupon I concluded that this no<g ref="char:EOLhyphen"/>tice had been from the D—. But he has ap<g ref="char:EOLhyphen"/>peal'd
+<pb n="19" facs="tcp:101770:18"/>to <hi>Ceſar,</hi> and to <hi>Ceſar</hi> I leave him.</p>
+            <p>There remain yet two things in the Letter to be conſider'd, which I ſhall diſpatch in as few words as poſſible: One is a piece of Caution, t'other of Kindneſs. He ſays, that <hi>near to the day the Aſſaſſina<g ref="char:EOLhyphen"/>tion was intended, I was very earneſt for Mony to buy a Horſe and Equipage;</hi> which is very true: For ac<g ref="char:EOLhyphen"/>cording to the Meaſures concerted be<g ref="char:EOLhyphen"/>twixt his Gr— and my ſelf,<note place="margin">
+                  <hi>Mem.</hi> p. 98.</note> I was to have made as forward an appearance in that Action as the moſt zealous of them all. The Deſign of this was, not only to have given information of all their Motions to a minute,<note place="margin">
+                  <hi>Mem.</hi> p. 111.</note> but to have put it into the King's power to have ſeiz'd every Perſon appearing in the very Enter<g ref="char:EOLhyphen"/>prize. This he knew could not be done without ſhewing my ſelf as forward, and as ready to en<g ref="char:EOLhyphen"/>gage in that Action as the warmeſt of 'em, whoſe Conſidence it would create. And therefore he a<g ref="char:EOLhyphen"/>greed that I ſhould buy a Horſe and Arms, in order to be the better able to execute what we had projected, as may appear by the Minutes of the <hi>10th</hi> and <hi>18th</hi> of <hi>February</hi> 1695. His Gr— did then believe that there was <hi>truth in the Story,</hi> whatever he has done ſince. He had then no little groundleſs fears, as <hi>if there were,</hi> he <hi>might poſſibly have ſet</hi> me <hi>out to be in<g ref="char:EOLhyphen"/>gaged in it.</hi> For, as I have already ſhewn, it was not the Quality of the Deſign, but the Quantity of the Mony that diſappointed me: his Gr— was not a<g ref="char:EOLhyphen"/>fraid of the Treaſon, but the Price;<note place="margin">
+                  <hi>Mem.</hi> p. 110.</note> for he ſent me a Bill of twenty Pound to equip me: but when he found that upon com<g ref="char:EOLhyphen"/>putation leſs than fifty pound would not do, he took time to conſider of it,<note place="margin">Ibid. p. 102.</note>
+               <hi>before</hi> he <hi>engag'd in thoſe great Expences,</hi> till the time was over. So that had my Deſign been Trai<g ref="char:EOLhyphen"/>terous, I might have had 20 Pounds towards it, tho not 50.</p>
+            <pb n="20" facs="tcp:101770:19"/>
+            <p> But if his Gr— had really any ſuch fears, I was in his power, and he ought to have ſecur'd me. Certainly his Gr— took me for a ſtrange ſort of Politician that ſhould come and diſcover Treaſon to him,<note place="margin">
+                  <hi>Mem.</hi> p. 115, <hi>to</hi> p. 118.</note> and tell him when, where, how, and by whom it was to be executed, only with a deſign to carry it on more effectually and ſecurely, as if his Gr—'s Privity had been a furtherance to it. A Plot ſo unnatural and ſtrain'd, as this would have been, I believe was never met with in a Play, much leſs in Nature. But this being a Reaſon thrown in <hi>ex abundanti,</hi> his Gr— did not much care whether it was a good one or no, nor can I find it concerns me much more, and therefore I leave it.</p>
+            <p>The other thing I thought fit to take notice of, is, his kindneſs in <hi>concealing my Name, to give me an opportunity to apprehend</hi> Chambers. If his Gr— had any ſuch kind Intentions, he took a very odd method to ſhew 'em: For to take me up by a Meſ<g ref="char:EOLhyphen"/>ſenger, and publickly to confront me with <hi>Hewet</hi> in the Secretaries Office, was (in my poor opini<g ref="char:EOLhyphen"/>on) none of the ſureſt ways to conceal my Name. But neither did I deſire him to conceal my Name upon any ſuch account: For had I aim'd at the Thouſand Pound Reward in the Proclamation, I could have ſecur'd that, by taking <hi>Holmes</hi> who lay with me, and divers others had I made that my buſineſs. But his Gr— who has loſt my Letters, may perhaps have miſtaken himſelf in this matter, as he has done in ſome others: For he had my own permiſſion in the Letter of the <hi>19th</hi> of <hi>February</hi> 95,<note place="margin">
+                  <hi>Mem.</hi> p. 118.</note> 
+               <hi>to name me.</hi> But this likewiſe is over and above, and therefore a tedious Anſwer may be ſuperfluous, for which reaſon I wave it.</p>
+            <pb n="21" facs="tcp:101770:19"/>
+            <p> Thus much I thought neceſſary in my one De<g ref="char:EOLhyphen"/>fence, againſt ſo publick and ſo ſolemn an attack upon my Reputation, as this Letter to the Houſe of Lords. I hope I have ſufficiently vindicated my ſelf againſt the Imputations that are there laid upon me; and if it appears that there has been any trifling, I hope by this time, it is plain that it doth not lie at my door. If the Reader finds himſelf troubl'd with frequent References in proof of my Aſſertions, it is only to avoid tedious and unneceſſary repetitions of what is already in print: the truth of which, my Enemies themſelves don't think fit to conteſt; and I preſume no indifferent Perſon can queſtion. If any man thinks my Ex<g ref="char:EOLhyphen"/>preſſions ſharp, let him put himſelf in my place, and conſider the nature of the Provocation, and how ill he himſelf would take it, to be made any Man's Fool how great ſoever. The Coat is ſcanda<g ref="char:EOLhyphen"/>lous, and he muſt be of a daſtardly Spirit that can be frighted into the wearing of it.</p>
+         </div>
+         <div type="reflection">
+            <head>Reflections on the Occaſion and Manner of my being ſent abroad in <hi>March 1697/8.</hi>
+            </head>
+            <p>AFter I had been examined in the <hi>Houſe</hi> of <hi>Lords,</hi> and was thereupon forbidden the Court by a Meſſage by <hi>Anthony Rowe</hi> Eſq; one of the Clerks of the Green Cloth; I retir'd into the Country, with a reſolution to lay my Caſe before the Par<g ref="char:EOLhyphen"/>liament at the opening of the next Seſſion. And upon my return to Town next Winter, I lodg'd a Petition in the hands of a Member of the Ho<g ref="char:EOLhyphen"/>nourable <hi>Houſe</hi> of <hi>Commons,</hi> who promis'd to bring it into the <hi>Houſe,</hi> in order to have Juſtice done me
+<pb n="22" facs="tcp:101770:20"/>there. But after a long attendance, inſtead of delivering my Petition, he brought me word that my Service would be well accepted, if I would go abroad and tranſmit from thence an Account of what was tranſacted by the Enemies of the Govern<g ref="char:EOLhyphen"/>ment, who were oblig'd by Act of Parliament to leave the Land. I was ſurpriz'd at the Overture, having been ſo long laid aſide, and was very de<g ref="char:EOLhyphen"/>ſirous to know who it was that would engage my Service: But that Favour was at that time deny'd me, and it was thought ſufficient that if I would undertake the Service, he would ſtand engag'd for a monthly Penſion to be duly tranſmitted to me, and a ſum of Mony immediately paid down to equip me out. Accordingly a hundred Pound was paid, and conſtant monthly Remittances promiſed, and that I ſhould be conſider'd for Services paſt. Upon the Honour of this Gentleman I was induc'd again to enter into Buſineſs; but not without the ſatiſ<g ref="char:EOLhyphen"/>faction of knowing (at leaſt as I thought) at whoſe inſtance and deſire he made this motion to me. For the treatment I had receiv'd for my former Services, had made me reſolve not to have any thing to do with the ſame Perſons again. Thereupon he told me, that it was the King himſelf, and that he himſelf (while he was in Town) was to be the only intermediate Perſon to convey all my Letters to his Majeſty, and to receive, and communicate his Inſtructions to me, and to make the promiſed Remittances: And in caſe of his abſence, or any other unforeſeen incapacity for that Service, it was agreed betwixt us, that a Friend of mine then pre<g ref="char:EOLhyphen"/>ſent, ſhould be admitted to the Honour of waiting on his Majeſty, and convey my Letters, and re<g ref="char:EOLhyphen"/>ceive his Commands. To make this look more ſolemn, a Paſs was given me, for my ſelf and Ser<g ref="char:EOLhyphen"/>vant under a ſham Name to go for <hi>Harwich,</hi> and
+<pb n="23" facs="tcp:101770:20"/>from thence to any Port in <hi>Holland,</hi>
+               <note place="margin">
+                  <hi>Vid.</hi> The Liſt at the end of this Relation.</note>and a <hi>Liſt</hi> given me of all thoſe Per<g ref="char:EOLhyphen"/>ſons to whom Warrants had been granted to ſtay in <hi>England,</hi> purſuant to the Act of Parliament, Intitled, <hi>An Act againſt correſponding with the late King</hi> James, <hi>and his Adhe<g ref="char:EOLhyphen"/>rents:</hi> My Inſtructions upon which, were to give notice of all ſuch Perſons that I underſtood came privately over contrary to that Act. Beſides this, my General Inſtructions were to conſort with thoſe Perſons who by that Act were oblig'd to quit this Kingdom, and to give conſtant Information of what was in agitation among them. With theſe Inſtructions I went for <hi>Holland,</hi> after which what paſs'd betwixt us, it concerns not the Reader much to know, only that after ſome time, the promiſed Remittances not being made, I wrote for 'em, and receiv'd divers ſhifting Excuſes. Sometimes the King was at <hi>New-Market;</hi> at others, that no Mony could be had, till the <hi>Civil Liſt</hi> was ſettl'd, and at laſt, that I was not to expect any. Hereupon find<g ref="char:EOLhyphen"/>ing that I could get nothing but thanks for what I did, which was too ſlender a Subſiſtance for me to live upon, I immediately return'd home. And applying my ſelf to the Gentleman from whom I had the Paſs, and the hundred Pound, to know the reaſon why I was ſo us'd, and who the Perſons were that commiſſion'd him to tranſact, he told me, that was a ſecret he muſt keep, and very much excus'd himſelf for having engag'd me in ſo much trouble and danger. This was all the ſatisfaction I had from him.</p>
+            <p>The management of this Affair, however <hi>myſ<g ref="char:EOLhyphen"/>terious</hi> it may ſeem, may perhaps need no <hi>Oedipus</hi> to unriddle it: For if we conſider the time when this was done, the Reaſon why will not be hard to be gueſs'd at. Nor perhaps will the Perſons,
+<pb n="24" facs="tcp:101770:21"/>who have preſum'd to make ſo bold with the King's Honour, as to abuſe his Royal Name and Authority in this manner, be ſo abſolutely in the dark, as they themſelves may imagin. For the very timing of this Matter, ſhews very evidently what the De<g ref="char:EOLhyphen"/>ſign of it was. I was juſt then come out of the Country with a full reſolution to lay my Caſe before the Parliament which was then ſitting. I had given a Petition to a Member of the <hi>Houſe</hi> of <hi>Commons,</hi> in order to have it read in the <hi>Houſe;</hi> but during the time he kept me in expectation of a proper Oc<g ref="char:EOLhyphen"/>caſion, this Gentleman was gain'd by ſome body (whoſe Intereſt perhaps it was, that theſe Matters ſhould not be ſo publickly examined) to make Overtures to me of ſerving abroad, and became the Inſtrument of ſending me out of the Nation; under pretence of doing further Service, and re<g ref="char:EOLhyphen"/>ceiving Satisfaction for what was paſt. That Gen<g ref="char:EOLhyphen"/>tleman muſt excuſe me, if I can no longer think that the King was any way privy to this Affair, and that whatſoever is pretended of it, is a direct Affront and Injury to his Majeſty's Honour, who would never have ſent away a Gentleman for his Service, and have left him deſtitute of Subſiſtance in a Foreign Land. The hand therefore of my Adverſaries appears plain enough in this Intrigue, and the hundred Pound was a Bait to make me ſwallow the Hook: For no ſooner did they think me far enough remov'd, and perhaps entangled be<g ref="char:EOLhyphen"/>yond a probability of returning, but the <hi>Maſque</hi> was pull'd of, and a worſe Face diſcover'd; I was bid to expect nothing more, and to ſhift for my ſelf as well as I could. However to their great ſurprize I got home before the Parliament roſe, which put 'em upon new Meaſures: Great pains were taken to excuſe this breach of Articles, and freſh Overtures made to me, with which I, who
+<pb n="25" facs="tcp:101770:21"/>truſted to the ſincerity and engagement of my Friend, was for ſome time amus'd, till the Parlia<g ref="char:EOLhyphen"/>ment riſing, all was again let drop; and I by that means let into the <hi>Drift,</hi> and <hi>Artifice</hi> of the whole Matter. I hope my Friend was over-reach'd, and that he did not then <hi>dive</hi> into the bottom of this <hi>Myſtery:</hi> Altho he was to blame, to be ſo far influenc'd by any Perſon, how great ſoever, as to pretend an immediate Warrant from his Majeſty for what he did; yet the concern he has ſince ſhew'd for it, makes me hope that he did believe thoſe other Perſons to act by Commiſſion from his Majeſty, and was over-perſwaded to take it upon himſelf, becauſe he had heard me declare, that I would have nothing more to do with certain Per<g ref="char:EOLhyphen"/>ſons.</p>
+         </div>
+      </body>
+      <back>
+         <div type="list">
+            <head>A Liſt of the Perſons Names to whom War<g ref="char:EOLhyphen"/>rants have been granted, purſuant to the late Act of Parliament, intituled, <hi>An Act againſt Correſponding with the late King</hi> James <hi>and his Adherents:</hi> Which was given to me <hi>February</hi> 1697/8.</head>
+            <list>
+               <label>A.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>EArl of</hi> Antrim</item>
+                     <item>Charles <hi>D. of St.</hi> Albans</item>
+                     <item>John Alexander</item>
+                     <item>Eliz. Arundell</item>
+                     <item>Mary Audly</item>
+                     <item>David Arnold</item>
+                     <item>William Amies</item>
+                     <item>
+                        <hi>Sir</hi> Francis Andrew</item>
+                     <item>Mary Alexander.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>B.</label>
+               <item>
+                  <list>
+                     <item>Ann Bagnal <hi>and her five Children</hi>
+                     </item>
+                     <item>John Bradey</item>
+                     <item>Thomas Bellaſis</item>
+                     <item>Richard <hi>Lord</hi> Bellew</item>
+                     <item>Dorothy de Beuclair</item>
+                     <item>
+                        <hi>Sir</hi> Nicholas Buttler</item>
+                     <item>John Brown</item>
+                     <item>John Bromfield</item>
+                     <pb n="26" facs="tcp:101770:22"/>
+                     <item>John Baurk, <hi>commonly cal<g ref="char:EOLhyphen"/>led Lord</hi> Bophine</item>
+                     <item>Eliz. Biſhop</item>
+                     <item>John Baker</item>
+                     <item>Humphry Boiſlace</item>
+                     <item>Suſanna Barry</item>
+                     <item>Philip Bell</item>
+                     <item>Barbara Brown</item>
+                     <item>Eliz. Brown</item>
+                     <item>Barbara Brown</item>
+                     <item>Mary Brown</item>
+                     <item>Samuel Boulton</item>
+                     <item>Lyſter Blunt</item>
+                     <item>James Butler</item>
+                     <item>
+                        <hi>Captain</hi> Bellew</item>
+                     <item>Timothy Bagne</item>
+                     <item>Thomas Burdin</item>
+                     <item>John Bellaſiſe</item>
+                     <item>William Beale</item>
+                     <item>Robert Bodine</item>
+                     <item>Benedict Bambore</item>
+                     <item>John Blackmore</item>
+                     <item>Hannah Brownſworth</item>
+                     <item>Richard Bowers</item>
+                     <item>George Bradſhaw</item>
+                     <item>Daniel Bulls</item>
+                     <item>William Barefoot</item>
+                     <item>Thomas Blake</item>
+                     <item>Edward Butler</item>
+                     <item>William Boweman</item>
+                     <item>Edward Buiditt</item>
+                     <item>Henry Barker</item>
+                     <item>Edmund Brown</item>
+                     <item>William Bland</item>
+                     <item>Tobias Bowles</item>
+                     <item>Charles Banbridg</item>
+                     <item>Geo. Barkas</item>
+                     <item>John Brodt</item>
+                     <item>William Barnes</item>
+                     <item>David Baurk</item>
+                     <item>
+                        <hi>Capt.</hi> James Barry</item>
+                     <item>Charles Berty <hi>Eſq;</hi>
+                     </item>
+                     <item>Walter Butler</item>
+                     <item>William Bromfield</item>
+                     <item>Henry Baxter</item>
+                     <item>John Brooks.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>C.</label>
+               <item>
+                  <list>
+                     <item>Margaret Chilton</item>
+                     <item>Thomas Clofton</item>
+                     <item>
+                        <hi>Col.</hi> John Corbet</item>
+                     <item>Benedict Leonard Calverſe</item>
+                     <item>Anne Cane</item>
+                     <item>Henry Carter</item>
+                     <item>Robert Clark</item>
+                     <item>Matthew Cooper</item>
+                     <item>Henry Carwin</item>
+                     <item>Philip Conner</item>
+                     <item>James Coleman</item>
+                     <item>Adam Colehough</item>
+                     <item>James Chiritch</item>
+                     <item>
+                        <hi>Sir</hi> William Compton</item>
+                     <item>Francis Courſon</item>
+                     <item>John Coleman</item>
+                     <item>John Connoway</item>
+                     <item>Henry Caps</item>
+                     <item>Ormitha Caps</item>
+                     <item>Mary Cozins</item>
+                     <item>John Cantrill</item>
+                     <item>Richard Cherry</item>
+                     <item>Edward Callender</item>
+                     <item>Eliz. Baſſet Coffin, <hi>and</hi> Ma<g ref="char:EOLhyphen"/>ry <hi>her Daughter</hi>
+                     </item>
+                     <item>Margaret Carletton</item>
+                     <item>Bartholomew Couley</item>
+                     <item>Francis Charas</item>
+                     <item>William Cloſe</item>
+                     <item>
+                        <hi>Sir</hi> Edward Carteret</item>
+                     <item>Thomas Cuſack</item>
+                     <item>
+                        <hi>Capt.</hi> Henry Courtney</item>
+                     <item>John Caddick</item>
+                     <item>Margaret Cromwell</item>
+                     <item>Stephen Creagh</item>
+                     <item>Edward Canron</item>
+                     <item>Charles Croſs</item>
+                     <pb n="27" facs="tcp:101770:22"/>
+                     <item>Robert Cham</item>
+                     <item>Garret Coſhland</item>
+                     <item>Henry Courſon</item>
+                     <item>William Cooke</item>
+                     <item>Charles Cecill</item>
+                     <item>Anne Compton.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>D.</label>
+               <item>
+                  <list>
+                     <item>John Digby</item>
+                     <item>Thomas Drew</item>
+                     <item>Henry <hi>Lord</hi> Dover</item>
+                     <item>John Darrell</item>
+                     <item>
+                        <hi>Doctor</hi> John Day</item>
+                     <item>
+                        <hi>Capt.</hi> Loftus Duckenfield</item>
+                     <item>Charles Dunſter</item>
+                     <item>John Digby</item>
+                     <item>John Duddell</item>
+                     <item>Rob. Doudall</item>
+                     <item>Edmund Dalton</item>
+                     <item>
+                        <hi>Lieut. Col.</hi> Ar. Dilton</item>
+                     <item>Alexander Doyley.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>E.</label>
+               <item>
+                  <list>
+                     <item>John Erington <hi>Eſq;</hi>
+                     </item>
+                     <item>William Evay</item>
+                     <item>
+                        <hi>Major</hi> John Eames</item>
+                     <item>John Everſe</item>
+                     <item>Edward Erington</item>
+                     <item>James Edgland</item>
+                     <item>Thomas Erington</item>
+                     <item>William Erington</item>
+                     <item>Philippa Elinſton</item>
+                     <item>John Egan.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>F.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Lord Viſc.</hi> Fitz-Williams</item>
+                     <item>Richard Fitz-Williams</item>
+                     <item>William Farmer</item>
+                     <item>Robert Fielding</item>
+                     <item>Arthur French</item>
+                     <item>Robert Fagan</item>
+                     <item>
+                        <hi>Hon.</hi> — Fitz Gerald</item>
+                     <item>Henry Fall</item>
+                     <item>Jane du Four</item>
+                     <item>Owen Fitz Symmons</item>
+                     <item>Thomas Forſter</item>
+                     <item>Stephen Field</item>
+                     <item>
+                        <hi>Capt.</hi> Edmund Fitz-Gerald</item>
+                     <item>Edward Fenwick</item>
+                     <item>
+                        <hi>Capt.</hi> James Fitz-Gerald</item>
+                     <item>Joſeph Fox</item>
+                     <item>John Fulham.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>G.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Doctor</hi> Samuel Garth</item>
+                     <item>Anthony Preſton <hi>Lord Viſ<g ref="char:EOLhyphen"/>count</hi> Gormanſton</item>
+                     <item>John Gazain</item>
+                     <item>Peter Galberry</item>
+                     <item>James Gough</item>
+                     <item>Daniel Gwin</item>
+                     <item>Reginald Graham</item>
+                     <item>Anthony Gazain</item>
+                     <item>Henry Gerrard</item>
+                     <item>Rich. Francis Griffith</item>
+                     <item>Geo. Toby Guigner</item>
+                     <item>Agatha Gillmore</item>
+                     <item>Caeſar Gage</item>
+                     <item>Samuel Gawen</item>
+                     <item>William Goold</item>
+                     <item>
+                        <hi>Sir</hi> Thomas Gaſcoigne</item>
+                     <item>Edward Gibbon</item>
+                     <item>Edward Gifford</item>
+                     <item>John Gallway</item>
+                     <item>Thomas Guiborn</item>
+                     <item>Daniel Geny.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>H.</label>
+               <item>
+                  <list>
+                     <item>Joſeph Haly</item>
+                     <item>Geo. Haviland</item>
+                     <item>
+                        <hi>Lord</hi> Geo. Howard</item>
+                     <item>Henry Howard <hi>Eſq;</hi>
+                     </item>
+                     <item>James Hacket</item>
+                     <item>Charles Houſe</item>
+                     <item>Jeremiah Holliſhed</item>
+                     <item>Daniel Harvey</item>
+                     <item>Thomas Hawkins</item>
+                     <item>Eliz. Hughs</item>
+                     <item>William Harrald</item>
+                     <pb n="28" facs="tcp:101770:23"/>
+                     <item>Bridget Horton</item>
+                     <item>Mary Hooper</item>
+                     <item>Walter Haſtings <hi>ſenior</hi>
+                     </item>
+                     <item>Walter Haſtings <hi>junior</hi>
+                     </item>
+                     <item>John Hambleton</item>
+                     <item>Richard Howard</item>
+                     <item>Dorothy Hurſt</item>
+                     <item>John Henborn</item>
+                     <item>George Hilton</item>
+                     <item>
+                        <hi>Lord</hi> James Howard</item>
+                     <item>Eliz. Hiddinſon</item>
+                     <item>Ralph Hardwick.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>I.</label>
+               <item>
+                  <list>
+                     <item>Bartholomew Iſaac</item>
+                     <item>Mary Iſaac</item>
+                     <item>Thomas Joy</item>
+                     <item>Thomas Johnſton</item>
+                     <item>Agnes Jolly</item>
+                     <item>Richard Jones</item>
+                     <item>James Jones.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>K.</label>
+               <item>
+                  <list>
+                     <item>Matthew King</item>
+                     <item>Mary Knight</item>
+                     <item>Almorick Brown <hi>of</hi> Kinnule</item>
+                     <item>
+                        <hi>Lord</hi> Keny</item>
+                     <item>
+                        <hi>Lord</hi> Kenmore</item>
+                     <item>Daniſh Kelly</item>
+                     <item>
+                        <hi>Major</hi> Charles King</item>
+                     <item>Charles Knowles <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Lord</hi> Banbury</item>
+                     <item>Walter Kennody</item>
+                     <item>Philip Kettle</item>
+                     <item>Anthony Kempt</item>
+                     <item>
+                        <hi>Capt.</hi> Edmund Keeting</item>
+                     <item>John <hi>L.</hi> Kingſton <hi>of</hi> Ireland, <hi>his Wife and 2 Children</hi>
+                     </item>
+                     <item>Charles Kelly.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>L.</label>
+               <item>
+                  <list>
+                     <item>Charlwood Lawton <hi>Eſq;</hi>
+                     </item>
+                     <item>
+                        <hi>Dr.</hi> Thomas Lone</item>
+                     <item>
+                        <hi>Col.</hi> Henry Lutterill</item>
+                     <item>
+                        <hi>Lady</hi> Barbara Leonard</item>
+                     <item>
+                        <hi>Lord</hi> Longdale</item>
+                     <item>Marmaduke Longdale</item>
+                     <item>Martha Lowe</item>
+                     <item>Richard Langhorn</item>
+                     <item>Edmund Loe</item>
+                     <item>Ann Leozonby</item>
+                     <item>Cornelius Lampard</item>
+                     <item>George Laylor</item>
+                     <item>Edmund Leny</item>
+                     <item>
+                        <hi>Lady</hi> Ann Lawſon</item>
+                     <item>James Lorre</item>
+                     <item>William Long</item>
+                     <item>William Lavely</item>
+                     <item>
+                        <hi>Lieut.</hi> William Long</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>M.</label>
+               <item>
+                  <list>
+                     <item>George Matthews</item>
+                     <item>Edmund Mellone</item>
+                     <item>Henry Morgan</item>
+                     <item>John Martin</item>
+                     <item>James Murray</item>
+                     <item>Luke Matthews</item>
+                     <item>Donnoth Mellony</item>
+                     <item>William More</item>
+                     <item>Dominick Mown</item>
+                     <item>
+                        <hi>Lieut.</hi> William Mannering</item>
+                     <item>Richard Maſey</item>
+                     <item>William Mortagh</item>
+                     <item>
+                        <hi>Sir</hi> Rich. More <hi>Bar.</hi>
+                     </item>
+                     <item>Peter Morris</item>
+                     <item>Francis Milton</item>
+                     <item>Henry More</item>
+                     <item>Thomas Murphey</item>
+                     <item>John Mackay</item>
+                     <item>
+                        <hi>Sir</hi> John Magrath.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>N.</label>
+               <item>
+                  <list>
+                     <item>Charles Newy</item>
+                     <item>Mary <hi>Dutcheſs of</hi> Norfolk</item>
+                     <item>
+                        <hi>Dr.</hi> Daniel Nolon</item>
+                     <item>Thomas Newgent</item>
+                     <item>John Nelſon</item>
+                     <item>Matthew Norris</item>
+                     <item>Thomas Newcomin</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="29" facs="tcp:101770:23"/>
+            <list>
+               <label>O.</label>
+               <item>
+                  <list>
+                     <item>James Oſwaild</item>
+                     <item>
+                        <hi>Capt.</hi> Darby Obrian.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>P.</label>
+               <item>
+                  <list>
+                     <item>Joſeph Patterſon</item>
+                     <item>Nicholas Pluncket</item>
+                     <item>Francis Povey</item>
+                     <item>Thomas Pendergraſs</item>
+                     <item>
+                        <hi>Capt.</hi> Thomas Panton</item>
+                     <item>Jervis Parker</item>
+                     <item>William Plowden <hi>Eſq;</hi>
+                     </item>
+                     <item>John Pluncket</item>
+                     <item>Robert Prujen</item>
+                     <item>William Philips</item>
+                     <item>John Pulman</item>
+                     <item>Robert Parſons</item>
+                     <item>Edward Peirce</item>
+                     <item>James Paſſible, <hi>and</hi> Mary <hi>his Wife</hi>
+                     </item>
+                     <item>James Penderick</item>
+                     <item>Eliz. Pluncket</item>
+                     <item>Jeremiah Peirce</item>
+                     <item>Eliz. Peirce</item>
+                     <item>William Pore</item>
+                     <item>Mary Poole</item>
+                     <item>Charles Parker.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>R.</label>
+               <item>
+                  <list>
+                     <item>Morgan Rugan <hi>Eſq;</hi>
+                     </item>
+                     <item>William Rufton</item>
+                     <item>Catharine Rockley</item>
+                     <item>Edward Robſon</item>
+                     <item>Richard Rudyard</item>
+                     <item>Edward Ryce <hi>Eſq;</hi>
+                     </item>
+                     <item>Charles <hi>Duke of</hi> Richmond</item>
+                     <item>Felix Rouſe</item>
+                     <item>Edward Richards</item>
+                     <item>
+                        <hi>Dr.</hi> Thomas Riddle</item>
+                     <item>Alexander Rigby</item>
+                     <item>William Rand</item>
+                     <item>Henry Rogers</item>
+                     <item>Thomas Rudd</item>
+                     <item>John Ryley</item>
+                     <item>Eliz. Roper</item>
+                     <item>Francis de la Rue</item>
+                     <item>William Rice.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>S.</label>
+               <item>
+                  <list>
+                     <item>John Smith</item>
+                     <item>John Shipen</item>
+                     <item>
+                        <hi>Sir</hi> John Southcott</item>
+                     <item>Charles Stourton</item>
+                     <item>Robert Searisbrick</item>
+                     <item>William South</item>
+                     <item>
+                        <hi>Counteſs of</hi> Suſſex</item>
+                     <item>
+                        <hi>Dr.</hi> Nicholas Shee</item>
+                     <item>John Smith</item>
+                     <item>
+                        <hi>Sir</hi> Edward Southcott</item>
+                     <item>Robert Shaw</item>
+                     <item>George Smith</item>
+                     <item>Alicia Scott</item>
+                     <item>James Sloan <hi>Eſq;</hi>
+                     </item>
+                     <item>George Sheppard</item>
+                     <item>Philip Stapleton</item>
+                     <item>Dominick Shelborn</item>
+                     <item>William Stavely</item>
+                     <item>Anne Selby</item>
+                     <item>Edward Sommerſet</item>
+                     <item>Henry Scudamore</item>
+                     <item>Michael Smith</item>
+                     <item>Hugh Scalby</item>
+                     <item>Andrew Smallwood</item>
+                     <item>Robert Shepheard</item>
+                     <item>John Stephens</item>
+                     <item>Thomas Sackfield</item>
+                     <item>Jane Stratham</item>
+                     <item>John Seagrave</item>
+                     <item>Francis Sheldon</item>
+                     <item>Thomas Swinborn</item>
+                     <item>Alexander Stratham</item>
+                     <item>Peter Saltmarſh</item>
+                     <item>John Talbot Stoner <hi>Eſq;</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>T.</label>
+               <item>
+                  <list>
+                     <item>George Talbot</item>
+                     <item>Mary Timperly</item>
+                     <item>John <hi>Lord</hi> Trimleſton</item>
+                     <pb n="30" facs="tcp:101770:24"/>
+                     <item>Francis Tenn <hi>Gent.</hi>
+                     </item>
+                     <item>Jeremiah Tincker</item>
+                     <item>James Tracy</item>
+                     <item>Edward Talbot <hi>Gent.</hi>
+                     </item>
+                     <item>Humphrey Trafford</item>
+                     <item>Rich. Trigeagle</item>
+                     <item>Thomas Taylor</item>
+                     <item>Geo. Throgmorton <hi>Eſq;</hi>
+                     </item>
+                     <item>Rich. Trevannian</item>
+                     <item>Ralph Tempeſt</item>
+                     <item>Walter Trafford <hi>Gent.</hi>
+                     </item>
+                     <item>Charles Trinder <hi>Eſq;</hi>
+                     </item>
+                     <item>James Tallant</item>
+                     <item>John Terry</item>
+                     <item>George Taylor.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>V.</label>
+               <item>
+                  <list>
+                     <item>Mary Valois</item>
+                     <item>Anthony Vane.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>W.</label>
+               <item>
+                  <list>
+                     <item>William Walſh</item>
+                     <item>John Williams</item>
+                     <item>John Wond</item>
+                     <item>Francis Williamſon <hi>Eſq;</hi>
+                     </item>
+                     <item>George Wilſon</item>
+                     <item>
+                        <hi>Sir</hi> Drury Wray</item>
+                     <item>
+                        <hi>Capt.</hi> Daniel Wood</item>
+                     <item>Charles Walurn</item>
+                     <item>Thomas Wagleck</item>
+                     <item>William Wood</item>
+                     <item>John White</item>
+                     <item>John Widrington, <hi>and</hi> Ma<g ref="char:EOLhyphen"/>ry <hi>his Wife</hi>
+                     </item>
+                     <item>William Wilmore</item>
+                     <item>Thomas Walſh.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="list">
+            <head>A Liſt of Perſons to whom Warrants were order'd to ſtay in <hi>England,</hi> and had not then taken them out, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <label>B.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Henry Bond</item>
+                     <item>Jane Bell</item>
+                     <item>
+                        <hi>Capt.</hi> Tho. Bourk</item>
+                     <item>Owen Bonham</item>
+                     <item>William Bayes</item>
+                     <item>
+                        <hi>Capt.</hi> John Bradill.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>C.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Capt.</hi> Henry Carter</item>
+                     <item>Thomas Conyers</item>
+                     <item>
+                        <hi>Major</hi> William Crosby</item>
+                     <item>
+                        <hi>Sir</hi> John Colliton.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>D.</label>
+               <item>
+                  <list>
+                     <item>John Drake</item>
+                     <item>Wynn Davies.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>E.</label>
+               <item>Francis Eaſt.</item>
+            </list>
+            <list>
+               <label>F.</label>
+               <item>
+                  <list>
+                     <item>William Fenwick.</item>
+                     <item>Arthur Fitz-Patterick.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>G.</label>
+               <item>
+                  <list>
+                     <item>John Grace</item>
+                     <item>—Gardiner.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>H.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Lady</hi> Hatton <hi>Widow</hi>
+                     </item>
+                     <item>Marbel Harding <hi>Widow</hi>
+                     </item>
+                     <item>Xeverius Harris</item>
+                     <item>George Harris.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>I.</label>
+               <item>
+                  <list>
+                     <item>Edward Jones</item>
+                     <item>Lewis Janvair</item>
+                     <item>Catharine Jackſon</item>
+                     <item>Robert Inwood.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>K.</label>
+               <item>
+                  <list>
+                     <item>John Knight</item>
+                     <item>Miles Keagne.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>L.</label>
+               <item>
+                  <list>
+                     <item>Peter Lyon</item>
+                     <item>Charles Lake</item>
+                     <item>John Lambden</item>
+                     <item>John Lunt</item>
+                     <item>— Lone.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>M.</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Terence Margrave</item>
+                     <item>John Murphey.</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="31" facs="tcp:101770:24"/>
+            <list>
+               <label>P.</label>
+               <item>
+                  <list>
+                     <item>Francis Peirce</item>
+                     <item>Henry Prince</item>
+                     <item>John Purcell.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>S.</label>
+               <item>
+                  <list>
+                     <item>Thomas Smith</item>
+                     <item>John Spencer</item>
+                     <item>Charles Sherburn.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>W.</label>
+               <item>
+                  <list>
+                     <item>Daniel Weſtney</item>
+                     <item>John Wynal</item>
+                     <item>William White</item>
+                     <item>Tecla Whaley.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
